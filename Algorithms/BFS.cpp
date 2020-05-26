@@ -13,12 +13,6 @@
 #include <queue>
 using namespace std;
 
-int main(){
-
-
-    return 0;
-}
-
 void BFS_M(int n, bool ** a, int s){
 
     /**
