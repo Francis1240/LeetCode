@@ -6,3 +6,4 @@ def find_median_sorted_arrays(nums1, nums2)
   nextfew = (a[i,2] + b[after-i,2]).sort
   (nextfew[0] + nextfew[1 - (m+n)%2]) / 2.0
 end
+ 
