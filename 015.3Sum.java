@@ -9,6 +9,7 @@ class Solution {
 
         for(int i = 0; i < n; i++){
             int x = nums[i];
+            for(int j = i+1; j < n; j++)
             
         }
         return null;
